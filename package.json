@@ -1,0 +1,13 @@
+{
+  "name": "lib-fifo",
+  "version": "1.0.0",
+  "description": "Simple FIFO queue implementations",
+  "main": "src/index.js",
+  "repository": "https://github.com/orgs/coding-stones/lib-fifo",
+  "author": "@pragdave",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "baretest": "^2.0.0"
+  }
+}
