@@ -19,6 +19,7 @@ queue.take()                // => 99
 console.log(queue.size())   // => 1
 queue.take()                // => 100
 console.log(queue.size())   // => 0
+~~~
 
 ### Context
 
